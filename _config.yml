@@ -21,7 +21,7 @@
 title: Open Game License
 email: questions@opengamelicense.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Website for the promotion of Open Game License 1.0a and other open
+  For the promotion of Open Game License 1.0a and other open
   content licenses.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://opengamelicense.org" # the base hostname & protocol for your site, e.g. http://example.com
